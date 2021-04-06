@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to liam's quick car wash
 
 You can use the [editor on GitHub](https://github.com/jelly-is-amazing/carwash/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
